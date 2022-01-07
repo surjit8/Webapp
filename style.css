@@ -1,0 +1,22 @@
+body{
+  text-align: center;  
+}
+h1{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+#line{
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+#Apps{
+    background-color: lightblue;
+}
+#Games{
+    background-color: lightcoral;
+}
+#Chatbot{
+    background-color: lightseagreen;
+}
